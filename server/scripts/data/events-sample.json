@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Oasis Live '27",
+    "dates": {
+      "start": {
+        "localDate": "2027-08-20",
+        "localTime": "19:00:00",
+        "timezone": "America/Los_Angeles"
+      }
+    },
+    "venue": { "name": "Allegiant Stadium", "city": "Las Vegas" },
+    "category": "Music",
+    "posterUrl": "https://s1.ticketm.net/dam/a/f3b/4e5c700e-50bb-4b8c-9673-9e4f9f2bef3b_RETINA_LANDSCAPE_16_9.jpg"
+  },
+  {
+    "name": "Eagles Live at Sphere",
+    "dates": {
+      "start": {
+        "localDate": "2026-11-27",
+        "localTime": "20:30:00",
+        "timezone": "America/Los_Angeles"
+      }
+    },
+    "venue": { "name": "Sphere", "city": "Las Vegas" },
+    "category": "Music",
+    "posterUrl": "https://s1.ticketm.net/dam/a/531/e32ef1da-b869-442c-9357-428baa6f0531_RETINA_LANDSCAPE_16_9.jpg"
+  },
+  {
+    "name": "Comic Con India",
+    "dates": {
+      "start": {
+        "localDate": "2027-02-14",
+        "localTime": "10:00:00",
+        "timezone": "Asia/Kolkata"
+      }
+    },
+    "venue": { "name": "Jio World Garden", "city": "Mumbai" },
+    "category": "Workshop",
+    "posterUrl": "https://placehold.co/600x400/png"
+  }
+]

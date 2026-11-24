@@ -1,26 +1,30 @@
-# Node
+# Dependencies
 node_modules/
-npm-debug.log*
+.pnpm-store/
 
-# Env
+# Environment variables and secrets
 .env
-.env.local
+.env.*
+!.env.example
 
 # Build output
 dist/
 build/
-
-# Editor
-.vscode/
-.idea/
-
-# OS
-.DS_Store
-Thumbs.db
+coverage/
 
 # Logs
 *.log
+npm-debug.log*
+pnpm-debug.log*
 
-# Local DB dumps
-*.sql.gz
-*.dump
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
